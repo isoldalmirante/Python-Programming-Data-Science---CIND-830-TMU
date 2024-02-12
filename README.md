@@ -1,1 +1,1 @@
-Assignments completed for the Python Programming Data Science course Winter 2023
+**Assignments completed for the Python Programming Data Science course Winter 2023** 
